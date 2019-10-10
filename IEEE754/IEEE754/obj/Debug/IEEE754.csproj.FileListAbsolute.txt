@@ -1,7 +1,0 @@
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\bin\Debug\IEEE754.exe.config
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\bin\Debug\IEEE754.exe
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\bin\Debug\IEEE754.pdb
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\obj\Debug\IEEE754.csprojAssemblyReference.cache
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\obj\Debug\IEEE754.csproj.CoreCompileInputs.cache
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\obj\Debug\IEEE754.exe
-C:\Users\JellyBeanci\source\repos\IEEE754\IEEE754\obj\Debug\IEEE754.pdb
